@@ -1,4 +1,5 @@
 gap-junctions
 =============
 
-Simulations on the role of gap junctions in the dynamics of neural networks
+This repository contains simulations that investigate the role of gap junctions in neural network dynamics. 
+In particular, these simulations investigate how the distribution of gap junctions across excitatory and inhibitory subpopulations affects synchrony
